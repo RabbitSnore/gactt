@@ -21,7 +21,7 @@ lapply(packages, library, character.only = TRUE)
 # If necessary to download manually, data set can be downloaded from
 # https://bit.ly/gacttCSV, and they should be placed in a subdirectory called
 # "data". The code below assumes the file name has not been changed. This link
-# is available in the video description for Hoffman (2023, Surprising And
+# is available in the video description for Hoffmann (2023, Surprising And
 # Fascinating Results From The Taste Test,
 # https://www.youtube.com/watch?v=bMOOQfeloH0) (2023-12-10)
 
